@@ -15,18 +15,29 @@ box-shadow: none;}
 
 .navbar-default .navbar-brand {color: #ed1d7d;}
 
+
+h1{font-family: honeyscript-semibold;
+	font-size: 40pt;
+margin-bottom: 1px;}
+
+h2{font-family: honeyscript-semibold;
+font-size: 22pt; }
+
 body{font-family: honeyscript-light;
 	background-color:#faf0d2;
 color: #ed1d7d;
 text-shadow: none;
-font-size: 25pt;
+font-size: 14pt;
 background-image: url("images/holi.png");
-background-position: 100% 100%;;
+background-position: 100% 100%;
 background-repeat: no-repeat;
-background-attachment: fixed;}
+background-attachment: fixed;
+padding-left:35px;}
 
-h1{font-family: honeyscript-semibold;
-	font-size: 36pt;
+h5{font-size: 25pt;}
+
+h3{font-size: 20pt;
+font-family: honeyscript-semibold;
 margin-bottom: 1px;}
 
 .navbar-default .navbar-nav>li>a {color:#ed1d7d ;}
@@ -59,17 +70,4 @@ padding-top: 18px;}
 	height: 60%;
 	width: 60%;
 float: right;}
-
-h3 {padding-top: 5px;
-margin-top: 1px;
-font-size: 22pt;}
-
-#submit_button {background-color: #ed1d7d;
-outline-color: #ed1d7d;
-color: #faf0d2;
-box-shadow: none;
-border: none;
-width: 100px;
-height: 40px;
-margin-left: 300px;}
 
